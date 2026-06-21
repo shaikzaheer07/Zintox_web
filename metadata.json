@@ -1,0 +1,6 @@
+{
+  "name": "Zintox Chat",
+  "description": "A polished dark-themed real-time chat application with user search, instant messaging, and profile management.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
